@@ -15,7 +15,7 @@ Express, Docker, Python, Flask, MongoDB and SQL.
 
 👨🏻‍🏫&nbsp; Coding instructor/coach at Code First: Girls and codebar. Giving back to the tech community and making it a more
 accessible and inclusive environment for everyone, regardless of their background, is a big passion of mine, as I believe
-*the best* software/products can only be built if our people looks like the users we build for.
+*the best* software/products can only be built if our teams look like the users we build for.
 
 🛫&nbsp; Spontaneous traveller whenever it is safe to do so again... 😷 &nbsp;In the mean time, I stick to walks in parks and the block around
 me 🚶🏻‍♂️
@@ -25,6 +25,6 @@ me 🚶🏻‍♂️
 
 ✍️ &nbsp;[Dev.to](https://dev.to/darrenvong)
 
-🐦 &nbsp;[Twitter](https://twitter.com/MrDarrenV)
+🦜 &nbsp;[Twitter](https://twitter.com/MrDarrenV)
 
 💼 &nbsp;[LinkedIn](https://linkedin.com/in/darrenvong)
