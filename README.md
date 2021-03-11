@@ -12,7 +12,7 @@ and wellbeing.
 🖥&nbsp; Languages, tools and technologies I currently enjoy working with: HTML, CSS, JavaScript/TypeScript, React, Jest,
 React Testing Library, Cypress, GraphQL, Express, Docker, Python, Flask, MongoDB and SQL.
 
-🛠&nbsp; Core contributor of [Couchers](https://couchers.org/), the new online platform for couch-surfers.
+🛠&nbsp; Core contributor of [Couchers](https://couchers.org/), the new/upcoming online platform for couch-surfers.
 
 👨🏻‍🏫&nbsp; Coding instructor/coach at Code First: Girls and codebar. Giving back to the tech community and making it a more
 accessible and inclusive environment for everyone, regardless of their background, is a big passion of mine, as I believe
