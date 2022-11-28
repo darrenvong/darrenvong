@@ -17,8 +17,8 @@ React Testing Library, Cypress, GraphQL, Express, Docker, Python, Flask, MongoDB
 accessible and inclusive environment for everyone, regardless of their background, is a big passion of mine, as I believe
 _the best_ software/products can only be built if our teams look like the users we build for.
 
-🛫&nbsp; Spontaneous traveller whenever it is safe to do so again... 😷 &nbsp;In the mean time, I stick to walks in parks and the block around
-me 🚶🏻‍♂️
+🛫&nbsp; Spontaneous traveller — ranging from [mystery holidays](https://www.journeetrips.com/), last-minute weekend breaks
+and cruises, you name it and I'll probably be there! 🚶‍♂️
 
 # 💌 Find me on
 
