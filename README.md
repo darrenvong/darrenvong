@@ -6,13 +6,7 @@ It appears that you are looking at my GitHub profile. Yes, I'm looking at you ov
 
 🇬🇧&nbsp; Currently based in London, UK.
 
-👨🏻‍💻&nbsp; Senior Software Engineer currently taking a break. Available for work from October 2023 at the earliest. Feel free to
-get in touch via the social links below if you have a suitable role that will allow me to do some (if not all) of the following:
-- Use some of the languages, tools and technologies mentioned below;
-- Learn new things in combination with the above;
-- Lead and architect a complex project;
-- Mentor other engineers and/or be mentored - learning is a two-way street!
-- Get involved in improving engineering processes.
+👨🏻‍💻&nbsp; Senior Frontend Engineer at Conduktor.
 
 🖥&nbsp; Languages, tools and technologies I currently enjoy working with: HTML, CSS, JavaScript/TypeScript, React, Jest,
 React Testing Library, Cypress, GraphQL, Express, Docker, Python, Flask, MongoDB and SQL.
