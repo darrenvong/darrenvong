@@ -11,7 +11,7 @@ It appears that you are looking at my GitHub profile. Yes, I'm looking at you ov
 🖥&nbsp; Languages, tools and technologies I currently enjoy working with: HTML, CSS, JavaScript/TypeScript, React, Jest,
 React Testing Library, Cypress, GraphQL, Express, Docker, Python, Flask, MongoDB and SQL.
 
-🛠&nbsp; Contributor of [Couchers](https://couchers.org/) - a new, open-sourced online platform for couch-surfers.
+🛠&nbsp; Former core Contributor of [Couchers](https://couchers.org/) - a new, open-sourced online platform for couch-surfers.
 
 🛫&nbsp; Spontaneous traveller — ranging from [mystery holidays](https://www.journeetrips.com/), last-minute weekend breaks
 and cruises, you name it and I'll probably be there! 🚶‍♂️
